@@ -1,0 +1,19 @@
+# 密钥与本地配置（绝不入库）
+config.json
+bot_settings.json
+
+# APK 构建产物：APK 内烙有 panel_token、含签名密钥库与整套 JDK，绝不入库
+apkbuild/
+
+# 运行时产物：日志/用量/会话指针/收发文件/过程记录
+*.log
+usage.json
+current_session.txt
+shared_session.txt
+sessions/
+live/
+incoming/
+
+# Python
+__pycache__/
+*.pyc

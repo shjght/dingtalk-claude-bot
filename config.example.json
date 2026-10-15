@@ -1,0 +1,16 @@
+{
+  "app_key": "填入钉钉应用的 AppKey（Client ID）",
+  "app_secret": "填入钉钉应用的 AppSecret（Client Secret）",
+  "allowed_users": ["第一次随便填，机器人会把你发消息时的 ID 回复给你，替换进来即可"],
+  "work_dir": "D:\\your\\workdir",
+  "task_timeout_minutes": 30,
+  "approval_timeout_minutes": 10,
+  "progress_minutes": 3,
+  "max_pending_tasks": 5,
+  "live_window": true,
+  "file_server_port": 8899,
+  "model": "",
+  "models": [],
+  "permission_mode": "default",
+  "panel_token": ""
+}

@@ -1,0 +1,4 @@
+dingtalk-stream>=0.20
+requests
+# 网页面板 PWA 图标（缺失只是没有图标，不影响功能）
+Pillow
